@@ -3,4 +3,6 @@
   print "ciao";
   print "buonasera";
   print "prova fork";
+
+  print("Modifica dopo fork");
 ?>  
